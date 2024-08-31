@@ -14,13 +14,13 @@ export default function Home() {
           />
         </div>
       </section>
-      <section className="">
+      <section>
         <Image
           src={'/assets/images/onboarding-img.png'}
           width={1000}
           height={1000}
           alt="onboarding"
-          className="w-full h-full"
+          className="w-full h-full rounded-l-[30px]"
         />
       </section>
     </div>
