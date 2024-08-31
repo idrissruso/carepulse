@@ -20,7 +20,7 @@ export default function Home() {
           width={1000}
           height={1000}
           alt="onboarding"
-          className=""
+          className="w-full h-full"
         />
       </section>
     </div>
